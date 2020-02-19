@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.exe
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.deps.json
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.runtimeconfig.json
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\bin\Debug\netcoreapp3.0\02. Maiden Party.pdb
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\obj\Debug\netcoreapp3.0\02. Maiden Party.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\obj\Debug\netcoreapp3.0\02. Maiden Party.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\obj\Debug\netcoreapp3.0\02. Maiden Party.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\obj\Debug\netcoreapp3.0\02. Maiden Party.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\02. Maiden Party\obj\Debug\netcoreapp3.0\02. Maiden Party.pdb

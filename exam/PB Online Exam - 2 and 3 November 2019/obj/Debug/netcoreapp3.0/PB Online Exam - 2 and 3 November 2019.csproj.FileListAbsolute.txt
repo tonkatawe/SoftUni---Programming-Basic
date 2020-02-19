@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.exe
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.deps.json
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.runtimeconfig.json
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\bin\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.pdb
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\obj\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\obj\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\obj\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\obj\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\PB Online Exam - 2 and 3 November 2019\obj\Debug\netcoreapp3.0\PB Online Exam - 2 and 3 November 2019.pdb

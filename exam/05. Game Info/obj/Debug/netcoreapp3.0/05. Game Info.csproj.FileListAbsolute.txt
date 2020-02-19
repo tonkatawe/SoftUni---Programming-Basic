@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.exe
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.deps.json
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.runtimeconfig.json
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\bin\Debug\netcoreapp3.0\05. Game Info.pdb
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\obj\Debug\netcoreapp3.0\05. Game Info.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\obj\Debug\netcoreapp3.0\05. Game Info.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\obj\Debug\netcoreapp3.0\05. Game Info.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\obj\Debug\netcoreapp3.0\05. Game Info.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\05. Game Info\obj\Debug\netcoreapp3.0\05. Game Info.pdb

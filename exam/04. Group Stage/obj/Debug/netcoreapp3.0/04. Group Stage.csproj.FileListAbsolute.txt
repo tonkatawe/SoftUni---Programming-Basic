@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.exe
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.deps.json
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.runtimeconfig.json
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\bin\Debug\netcoreapp3.0\04. Group Stage.pdb
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\obj\Debug\netcoreapp3.0\04. Group Stage.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\obj\Debug\netcoreapp3.0\04. Group Stage.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\obj\Debug\netcoreapp3.0\04. Group Stage.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\obj\Debug\netcoreapp3.0\04. Group Stage.dll
+C:\Users\vlaho\source\repos\01. Wedding Time\04. Group Stage\obj\Debug\netcoreapp3.0\04. Group Stage.pdb
